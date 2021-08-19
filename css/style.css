@@ -101,6 +101,13 @@ main {
     margin: 0 0 4px;
 }
 
+.bg-quotation {
+    background-image: url('../img/bg-pattern-quotation.svg');
+    background-position: 90% 20px;
+    background-repeat: no-repeat;
+    background-size: 100px;
+}
+
 .bg-white .testimonial-name {
     color: var(--very-dark-grayish-blue);
 }
